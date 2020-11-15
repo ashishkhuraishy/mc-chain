@@ -33,3 +33,5 @@ class P2pServer {
     }
 
 }
+
+module.exports = P2pServer;
